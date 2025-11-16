@@ -1,0 +1,1 @@
+A command-line tool for inspecting, validating, and managing Autodesk Shape Manager (ASM) and LibG installations.

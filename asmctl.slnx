@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AsmCtl.Cli/AsmCtl.Cli.csproj" />
+    <Project Path="src/AsmCtl.Core/AsmCtl.Core.csproj" />
+  </Folder>
+</Solution>
